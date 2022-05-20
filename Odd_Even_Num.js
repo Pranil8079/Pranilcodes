@@ -1,4 +1,4 @@
-let num1 = 25;
+let num1 = 24;
 
 let num3 = num1 % 2
 
